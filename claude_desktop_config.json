@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "openmemory": {
+      "command": "node",
+      "args": [
+        "D:\\Code\\Phanmemcanhan\\PhanMemCaNhan-1\\mcp-openmemory\\server.js"
+      ],
+      "disabled": false
+    }
+  }
+}
